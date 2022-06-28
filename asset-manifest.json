@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Heliverse_Form/static/css/main.da7fdcb8.css",
+    "main.js": "/Heliverse_Form/static/js/main.e6dae7cf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Heliverse_Form/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Heliverse_Form/index.html",
+    "main.da7fdcb8.css.map": "/Heliverse_Form/static/css/main.da7fdcb8.css.map",
+    "main.e6dae7cf.js.map": "/Heliverse_Form/static/js/main.e6dae7cf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Heliverse_Form/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7fdcb8.css",
+    "static/js/main.e6dae7cf.js"
+  ]
+}
