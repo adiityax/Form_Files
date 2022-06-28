@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: linear-gradient(to right, rgb(13, 69, 159), rgb(215, 10, 10));
+}
+
+input {
+  background:local;
+  width:17rem;
+  height: 2rem;
+}
+
+.button {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.name-btn {
+  background:local;
+  width:8rem;
+  height: 2rem;
+}
+
+.button-submit {
+  padding: 0.5rem;
+  margin: 0.7rem;
+  width: 17rem;
+}
